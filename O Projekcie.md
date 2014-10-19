@@ -1,10 +1,10 @@
 Krasnal-Project - Lider Mateusz Ciszewski
 
- 1 Założenia Projektowe:
+ 1. Założenia Projektowe:
 
 Celem projektu jest stworzenie serwisu webowego oraz aplikacji mobilnej Będącej interaktywnym przewodnikiem po "Wrocławskich Krasnalach"
 
- 2 Funkcjonalność:
+ 2. Funkcjonalność:
 
 -możliwość dodawania komentarzy 
 -możliwość dodawania krasnali 
@@ -12,7 +12,7 @@ Celem projektu jest stworzenie serwisu webowego oraz aplikacji mobilnej Będące
 -korzystanie z gotowej bazy krasnali 
 -zwiedzanie oraz szukanie krasnali
 
- 3 Środowisko developerskie
+ 3. Środowisko developerskie
 
 a) aplikacja WWW: Django - Mateusz Ciszewski, Mariusz Kondratowicz, Przemysław Olejak
 
